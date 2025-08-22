@@ -1,5 +1,5 @@
 # Hotfix: improve comments for operations
-#!/bin/bash
+# Feature branch: adding EC2 metric collection
 
 # Domain to check
 DOMAIN="yashoo.in"
