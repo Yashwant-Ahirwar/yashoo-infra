@@ -1,3 +1,4 @@
+# Hotfix: improve comments for operations
 #!/bin/bash
 
 # Domain to check
